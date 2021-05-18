@@ -9,7 +9,7 @@ public class ExpenseDAO {
 
     private final String url = "jdbc:mysql://localhost:3306/exmanger";
     private final String uname = "root";
-    private final String pass = "ramleela";
+    private final String pass = "xxxxx";
     Connection con;
 
     public ExpenseDAO() throws Exception {
