@@ -8,7 +8,7 @@ import javax.swing.table.DefaultTableModel;
 public class IncomeDAO {
     private final String url = "jdbc:mysql://localhost:3306/exmanger";
     private final String uname = "root";
-    private final String pass = "ramleela";
+    private final String pass = "xxxx";
     Connection con;
 
     public IncomeDAO() throws Exception {
